@@ -6,7 +6,7 @@ apply from: "$project.rootDir/tools/script-pmd.gradle"
 
 android {
     compileSdkVersion rootProject.ext.compileSdkVersion
-    buildToolsVersion '28.0.2'
+    buildToolsVersion '28.0.3'
 
     defaultConfig {
         applicationId "com.futurice.android.reservator"
